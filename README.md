@@ -53,6 +53,8 @@ In the future, we can add more MBConv blocks to process features before pushing 
 ## References
 Dai, Z., Liu, H., Le, Q. V., & Tan, M. (2021). CoAtNet: Marrying convolution and attention for all data sizes. Advances in Neural Information Processing Systems, 34, 3965–3977. https://arxiv.org/abs/2106.04803
 
+Liu, Z., Mao, H., Wu, C.-Y., Feichtenhofer, C., Darrell, T., & Xie, S. (2022). A ConvNet for the 2020s. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
 Tiny ImageNet Dataset
 Wu, J., Zhang, J., Xie, Y., & others. (2017).
 Tiny ImageNet Visual Recognition Challenge.
