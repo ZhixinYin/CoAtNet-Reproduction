@@ -1,7 +1,7 @@
 # CoAtNet Paper Reproduction(2021)
 
 ## Introduction
-This project reproduces the CoAtNet architecture as described in the original paper, while tuning the original architecture to suit Tiny Image Net to prevent overfitting.
+This project reproduces the CoAtNet architecture as described in the original paper, while tuning the original architecture to suit Tiny Image Net to reduce overfitting.
 
 ## Architecture Summary
 | Stage | Layer / Block              | Output Shape     | Notes                                 |
